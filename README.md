@@ -7,7 +7,7 @@ Allow sync method for Laravel Has Many Relationship.
 You can install the package via composer:
 
 ```
-composer require alfa6661/laravel-has-many-sync
+composer require haithemkdous/laravel-7-has-many-sync
 ```
 
 Register the ServiceProvider in `config/app.php`
